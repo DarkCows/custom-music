@@ -1,9 +1,11 @@
 # custom-music
 
-Resource pack that swaps the default jukebox music in minecraft for other video game music. Also swaps the texture of discs to cassettes. 
-Neither the music or the cassette designs are mine. Some discs are mashups of multiple songs.
+Modrinth page: https://modrinth.com/resourcepack/custom-music
 
-Cassette designs: https://modrinth.com/resourcepack/floppy-discs/version/1.1
+Resource pack that swaps the default jukebox music in minecraft for other video game music. Also swaps the texture of discs to floppy discs. 
+Neither the music or the floppy disc designs are mine. Some discs are mashups of multiple songs.
+
+Floppy disc designs by Maro: https://modrinth.com/resourcepack/floppy-discs/version/1.1
 
 ## Music Used:
 * Naoto Kubo - Bubblaine
